@@ -1,0 +1,7 @@
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+ecommerce/target/
+ecommerce/.m2/
+*.log
+.DS_Store
